@@ -9,7 +9,11 @@ Feel free to contribute! 💡
 *(Mac only)*
 
 ## How to run
-- Create a virtual environment
+### Create a virtual environment
+- python3 -m venv venv
+- source venv/bin/activate
+
+### Imports
 - pip3 install send2trash 
 - pip3 install pillow
 - Run main.py
