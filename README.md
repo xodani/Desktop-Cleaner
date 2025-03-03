@@ -8,10 +8,11 @@ Feel free to contribute! 💡
 
 *(Mac only)*
 
-## Imports
+## How to run
 - Create a virtual environment
 - pip3 install send2trash 
 - pip3 install pillow
+- Run main.py
 - (if pip3 doesnt work try pip)
 
 ## *Built With*
