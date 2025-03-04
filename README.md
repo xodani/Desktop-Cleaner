@@ -4,7 +4,7 @@ Still in development. 👷🏾‍♀️
 
 Feel free to contribute! 💡
 
-**‼️ May cause data loss, use at your own risk! ‼️**
+**‼️⚠️ May cause data loss, use at your own risk!! ⚠️‼️**
 
 *(Mac only)*
 
